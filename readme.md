@@ -1,2 +1,2 @@
 SAM-LIGHTENING: LIGHT-WEIGHT SEGMENT ANYTHING MODEL WITHIN 7MS
-Weights will release after accepted
+\p The model weights will be released after the paper is accepted.
