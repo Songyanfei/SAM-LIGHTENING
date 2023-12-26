@@ -1,1 +1,2 @@
 SAM-LIGHTENING: LIGHT-WEIGHT SEGMENT ANYTHING MODEL WITHIN 7MS
+Weights will release after accepted
